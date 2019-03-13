@@ -1,0 +1,16 @@
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\bin\Debug\ButtonDesign.exe.config
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\bin\Debug\ButtonDesign.exe
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\bin\Debug\ButtonDesign.pdb
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.csprojAssemblyReference.cache
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\MainWindow.g.cs
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\App.g.cs
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign_MarkupCompile.cache
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign_MarkupCompile.lref
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\App.baml
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\MainWindow.baml
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.g.resources
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.Properties.Resources.resources
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.csproj.GenerateResource.cache
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.csproj.CoreCompileInputs.cache
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.exe
+C:\Users\ЖангельдинТ\source\repos\ButtonDesign\ButtonDesign\obj\Debug\ButtonDesign.pdb
